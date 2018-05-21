@@ -1,17 +1,17 @@
 Przed sortowaniem b¹belkowym: 
-[  77 2223 4657 ... 2193 4326 2493]
+[ 297 2695 3410 ... 2220 2601 2914]
 Po sortowaniu b¹belkowym: 
 [   0    1    2 ... 4997 4998 4999]
-czas[s]: 10.7101
+czas[s]: 10.3472
 
-Przed sortowaniem drugim: 
-[3645  868 2087 ... 3225 2936 3754]
-Po sortowaniu drugim: 
+Przed sortowaniem 'selection sort': 
+[3590  545 1578 ... 4564 3699 1840]
+Po sortowaniu 'selection sort': 
 [   0    1    2 ... 4997 4998 4999]
-czas[s]: 2.2703
+czas[s]: 2.2518
 
 Przed sortowaniem 'quick sort': 
-[3080 4953 2676 ... 1864  581 4995]
+[ 576 2219 1522 ... 2463  316 1593]
 Po sortowaniu 'quick sort': 
 [   0    1    2 ... 4997 4998 4999]
-czas[s]: 0.7776
+czas[s]: 0.7596
